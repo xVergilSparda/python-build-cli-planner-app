@@ -1,6 +1,3 @@
-"""This module implements some Reminder classes that we should
-consider as "external", whose source we do not control.
-"""
 from dateutil.parser import parse
 from collections.abc import Iterable
 from datetime import datetime
